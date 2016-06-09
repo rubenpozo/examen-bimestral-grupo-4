@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def leertxt():
     archi=open('textoej3.txt','r')
     linea=archi.readline()
@@ -17,7 +17,7 @@ def leertxt():
 palabra=leertxt()
 
 print('encontro: '+str(palabra)+' palabras')
-=======
+
 from tkinter import *
 contador2=0
 contador= 0
@@ -53,4 +53,4 @@ root.geometry('100x110+350+70')
 boton = Button(root,text='presionar',command=call)
 boton.pack()
 root.mainloop()
->>>>>>> origin/master
+
