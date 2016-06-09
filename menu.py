@@ -11,6 +11,18 @@ os.system('cls')
 continuar=1
 while(continuar==1):
 	menu()	
-	opcion = int(input('ingrese una opcion: '))
+	
 	if(opcion==1):
+
+	if(opcion==2):
+
+	if(opcion==3):
+
+	if(opcion==4):
+
+	if(opcion==5):
+
+	if(opcion==6):
+
+	continuar=1
 		
